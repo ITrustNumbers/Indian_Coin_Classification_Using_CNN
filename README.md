@@ -23,3 +23,7 @@ dataset/
             twenty/
             two/
  ```
+The data contains images of One (1), Two (2), Five (5), Ten (10), and Twenty (20) Rupee coins in Indian denomination and their variations that are in circulation as of December 2021. The dataset only contains images of one side of each coin (Tail side) which contains the denomination value.
+
+For more information on the data refer to the documentation available on IEEE DataPort ![Here](https://ieee-dataport.org/documents/indian-coin-denomination-dataset-icdd)
+
