@@ -6,6 +6,7 @@ The code is this repository is part of a research paper titled "A Novel Convolut
  
 ## About Data:
 
-The data used in this study is collected and stored using the follow structing format:
+The data used in this study is collected by the authors and stored using the follow filling structure:
 
-``` dataset/\n haga```
+```dataset/ 
+    haga```
