@@ -8,5 +8,5 @@ The code is this repository is part of a research paper titled "A Novel Convolut
 
 The data used in this study is collected by the authors and stored using the follow filling structure:
 
-```dataset/ 
+``` dataset/  
     haga```
