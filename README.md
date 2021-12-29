@@ -42,10 +42,12 @@ Authors:
 Yash Chauhan, Prateek Singh
     
 Citation: 
+Chauhan, Y., & Singh, P. (2021). A Novel Convolutional Neural Network for Classifying Indian Coins by Denomination. https://doi.org/10.31224/osf.io/znxrg
 
-DOI:
+DOI: 
+10.31224/osf.io/znxrg
 ```
-For Citation in other format than APA go Here
+For Citation in other format than APA go [Here](https://doi.org/10.31224/osf.io/znxrg)
 
 ### For Citing the Dataset use bellow citation(APA Format):
 
